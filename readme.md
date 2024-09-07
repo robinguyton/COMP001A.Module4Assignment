@@ -1,2 +1,2 @@
 Author: Robin Guyton
-Purpose: Create a webpage with 5 pages
+Purpose: Create a webpage for an animal shelter
